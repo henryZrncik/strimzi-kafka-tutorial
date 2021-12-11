@@ -42,6 +42,6 @@ spec:
         - name: SP_KAFKA_TOPIC
           value: "my-topic"
         - name: SP_SLEEP_TIME_MS
-          value: "200"
+          value: "2000ms"
         - name: SP_BUFFER_SIZE
           value: "5"
